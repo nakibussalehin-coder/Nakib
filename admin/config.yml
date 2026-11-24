@@ -2,7 +2,7 @@ backend:
   name: github
   repo: nakibussalehin-coder/Nakib
   branch: main
-  base_url: https://decap.YOUR-DOMAIN.com
+  base_url: https://decap-auth.nakibussalehin.workers.dev
   auth_endpoint: auth
 
 media_folder: uploads
