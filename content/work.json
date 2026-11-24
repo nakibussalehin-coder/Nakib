@@ -1,8 +1,27 @@
 {
   "services": [
-    { "name": "Graphics Design", "projects": [] },
-    { "name": "Video Editing", "projects": [] },
-    { "name": "Voice Over", "projects": [] },
-    { "name": "Meta Marketing", "projects": [] }
+    {
+      "name": "Graphics Design",
+      "projects": [
+        {
+          "title": "Social Media Post",
+          "images": [
+            "/uploads/promotional-1-.png"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Video Editing",
+      "projects": []
+    },
+    {
+      "name": "Voice Over",
+      "projects": []
+    },
+    {
+      "name": "Meta Marketing",
+      "projects": []
+    }
   ]
 }
