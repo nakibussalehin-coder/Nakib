@@ -12,6 +12,15 @@
             "/uploads/03.jpg",
             "/uploads/file_000000008c7881f8a1583e70e29e5e25.png"
           ]
+        },
+        {
+          "title": "Banner",
+          "images": [
+            "/uploads/img-20260421-wa0023.jpg",
+            "/uploads/banner-design.jpg",
+            "/uploads/banner-design-1-.jpg",
+            "/uploads/banner-design-.jpg"
+          ]
         }
       ]
     },
