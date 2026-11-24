@@ -21,6 +21,12 @@
             "/uploads/banner-design-1-.jpg",
             "/uploads/banner-design-.jpg"
           ]
+        },
+        {
+          "title": "Logo",
+          "images": [
+            "/uploads/1000003564.jpg"
+          ]
         }
       ]
     },
