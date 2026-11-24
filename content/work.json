@@ -75,12 +75,25 @@
             "/uploads/vid-20261124-wa0012.mp4",
             "/uploads/vid-20261124-wa0021.mp4"
           ]
+        },
+        {
+          "title": "Documentary",
+          "videos": [
+            "/uploads/vid-20261124-wa0023.mp4"
+          ]
         }
       ]
     },
     {
       "name": "Voice Over",
-      "projects": []
+      "projects": [
+        {
+          "videos": [
+            "/uploads/video_20261124_195223.mp4"
+          ],
+          "title": "Tvc"
+        }
+      ]
     },
     {
       "name": "Meta Marketing",
